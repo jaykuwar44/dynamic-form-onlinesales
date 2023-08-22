@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-form-onlinesales/static/css/main.527fc402.css",
+    "main.js": "/dynamic-form-onlinesales/static/js/main.088ec6ed.js",
+    "static/js/787.807f7092.chunk.js": "/dynamic-form-onlinesales/static/js/787.807f7092.chunk.js",
+    "index.html": "/dynamic-form-onlinesales/index.html",
+    "main.527fc402.css.map": "/dynamic-form-onlinesales/static/css/main.527fc402.css.map",
+    "main.088ec6ed.js.map": "/dynamic-form-onlinesales/static/js/main.088ec6ed.js.map",
+    "787.807f7092.chunk.js.map": "/dynamic-form-onlinesales/static/js/787.807f7092.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527fc402.css",
+    "static/js/main.088ec6ed.js"
+  ]
+}
